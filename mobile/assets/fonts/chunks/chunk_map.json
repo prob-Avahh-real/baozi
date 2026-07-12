@@ -1,0 +1,1074 @@
+{
+  "NotoSansSC-Regular": [
+    {
+      "file": "regular/chunk-000.ttf",
+      "size": 66132,
+      "unicode": "U+0020-007E, U+00A0-0103, U+0110-0113, U+011A-011B, U+0128-012B, U+0143-0144, U+0147-0148, U+014C-014F, U+0152-0153, U+0168-016D, U+0192, U+01A0-01A1, U+01AF-01B0, U+01CD-01DC, U+01F8-01F9, U+0251, U+0261, U+02BB, U+02C7, U+02C9-02CB, U+02D9, U+02EA-02EB, U+0300-0301, U+0304, U+0307, U+030C, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+0401, U+0410-0438",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-001.ttf",
+      "size": 52880,
+      "unicode": "U+0439-044F, U+0451, U+1E3E-1E3F, U+1EA0-1EF9, U+2002-2003, U+2010-2016, U+2018-201A, U+201C-201E, U+2020-2022, U+2025-2027, U+2030, U+2032-2033, U+2035, U+2039-203C, U+2042, U+2047-2049, U+2051, U+2074, U+20A9, U+20AB-20AC, U+20DD-20DE, U+2100, U+2103, U+2105, U+2109-210A, U+210F, U+2113, U+2116, U+2121-2122, U+2126-2127, U+212B, U+212E, U+2135, U+213B, U+2160-216B, U+2170-217B, U+2190-2199, U+21B8-21B9, U+21C4-21C6, U+21CB-21CC, U+21D0, U+21D2, U+21D4, U+21E6-21E9, U+21F5, U+2200, U+2202-2203, U+2205-220B, U+220F, U+2211-2213, U+2215, U+221A, U+221D-2220, U+2223, U+2225-222E, U+2234-2237, U+223D, U+2243, U+2245, U+2248, U+224C, U+2260-2262, U+2264-2267, U+226A-226B, U+226E-226F, U+2272-2273, U+2276-2277, U+2282-2287, U+228A-228B, U+2295-2299, U+22A0, U+22A5, U+22BF, U+22DA-22DB, U+22EF, U+2305-2307, U+2312, U+2318, U+2329-232A, U+23B0-23B1, U+23BE-23CC, U+23CE, U+23DA-23DB, U+2423, U+2460-247A",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-002.ttf",
+      "size": 46480,
+      "unicode": "U+247B-25AB, U+25B1-25B3, U+25B6-25B7, U+25BC-25BD, U+25C0-25C1, U+25C6-25C7, U+25C9-25CC, U+25CE-25D3, U+25E2-25E6, U+25EF, U+2600-2603, U+2605-2606, U+2609, U+260E-260F, U+2616-2617, U+261C-261F, U+262F, U+2640-2641",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-003.ttf",
+      "size": 58552,
+      "unicode": "U+2642, U+2660-266F, U+2672-267D, U+26A0, U+26BD-26BE, U+2702, U+2713, U+271A, U+273D, U+273F-2740, U+2756, U+2776-2793, U+27A1, U+2934-2935, U+29BF, U+29FA-29FB, U+2B05-2B07, U+2B1A, U+2B95, U+2E3A-2E3B, U+2E80-2E99, U+2E9B-2EF3, U+2F00-2F98",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-004.ttf",
+      "size": 130724,
+      "unicode": "U+2F99-2FD5, U+2FF0-2FFB, U+3000-303F, U+3041-3096, U+3099-30FF, U+3105-311C",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-005.ttf",
+      "size": 61716,
+      "unicode": "U+311D-312F, U+3131-3163, U+3165-318E, U+3190-31BB, U+31C0-31E3, U+31F0-321E, U+3220-328E",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-006.ttf",
+      "size": 148684,
+      "unicode": "U+328F-332B, U+332D-33ED",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-007.ttf",
+      "size": 105052,
+      "unicode": "U+33EE-354B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-008.ttf",
+      "size": 106152,
+      "unicode": "U+354C-36A9",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-009.ttf",
+      "size": 113296,
+      "unicode": "U+36AA-3807",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-010.ttf",
+      "size": 115196,
+      "unicode": "U+3808-3965",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-011.ttf",
+      "size": 126784,
+      "unicode": "U+3966-3AC3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-012.ttf",
+      "size": 125160,
+      "unicode": "U+3AC4-3C21",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-013.ttf",
+      "size": 128212,
+      "unicode": "U+3C22-3D7F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-014.ttf",
+      "size": 129712,
+      "unicode": "U+3D80-3EDD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-015.ttf",
+      "size": 129420,
+      "unicode": "U+3EDE-403B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-016.ttf",
+      "size": 124284,
+      "unicode": "U+403C-4199",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-017.ttf",
+      "size": 149380,
+      "unicode": "U+419A-42F7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-018.ttf",
+      "size": 142372,
+      "unicode": "U+42F8-4455",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-019.ttf",
+      "size": 120448,
+      "unicode": "U+4456-45B3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-020.ttf",
+      "size": 135748,
+      "unicode": "U+45B4-4711",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-021.ttf",
+      "size": 131080,
+      "unicode": "U+4712-486F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-022.ttf",
+      "size": 138816,
+      "unicode": "U+4870-49CD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-023.ttf",
+      "size": 138520,
+      "unicode": "U+49CE-4B2B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-024.ttf",
+      "size": 165544,
+      "unicode": "U+4B2C-4C89",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-025.ttf",
+      "size": 160056,
+      "unicode": "U+4C8A-4DB5, U+4E00-4E31",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-026.ttf",
+      "size": 75324,
+      "unicode": "U+4E32-4F8F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-027.ttf",
+      "size": 103832,
+      "unicode": "U+4F90-50ED",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-028.ttf",
+      "size": 98492,
+      "unicode": "U+50EE-524B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-029.ttf",
+      "size": 101908,
+      "unicode": "U+524C-53A9",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-030.ttf",
+      "size": 78904,
+      "unicode": "U+53AA-5507",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-031.ttf",
+      "size": 101900,
+      "unicode": "U+5508-5665",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-032.ttf",
+      "size": 97244,
+      "unicode": "U+5666-57C3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-033.ttf",
+      "size": 106100,
+      "unicode": "U+57C4-5921",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-034.ttf",
+      "size": 107564,
+      "unicode": "U+5922-5A7F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-035.ttf",
+      "size": 124944,
+      "unicode": "U+5A80-5BDD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-036.ttf",
+      "size": 90036,
+      "unicode": "U+5BDE-5D3B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-037.ttf",
+      "size": 108112,
+      "unicode": "U+5D3C-5E99",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-038.ttf",
+      "size": 110208,
+      "unicode": "U+5E9A-5FF7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-039.ttf",
+      "size": 109568,
+      "unicode": "U+5FF8-6155",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-040.ttf",
+      "size": 120716,
+      "unicode": "U+6156-62B3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-041.ttf",
+      "size": 108948,
+      "unicode": "U+62B4-6411",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-042.ttf",
+      "size": 139764,
+      "unicode": "U+6412-656F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-043.ttf",
+      "size": 100576,
+      "unicode": "U+6570-66CD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-044.ttf",
+      "size": 98908,
+      "unicode": "U+66CE-682B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-045.ttf",
+      "size": 113896,
+      "unicode": "U+682C-6989",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-046.ttf",
+      "size": 141196,
+      "unicode": "U+698A-6AE7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-047.ttf",
+      "size": 129552,
+      "unicode": "U+6AE8-6C45",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-048.ttf",
+      "size": 97644,
+      "unicode": "U+6C46-6DA3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-049.ttf",
+      "size": 120288,
+      "unicode": "U+6DA4-6F01",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-050.ttf",
+      "size": 148960,
+      "unicode": "U+6F02-705F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-051.ttf",
+      "size": 124104,
+      "unicode": "U+7060-71BD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-052.ttf",
+      "size": 131236,
+      "unicode": "U+71BE-731B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-053.ttf",
+      "size": 114740,
+      "unicode": "U+731C-7479",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-054.ttf",
+      "size": 118160,
+      "unicode": "U+747A-75D7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-055.ttf",
+      "size": 119372,
+      "unicode": "U+75D8-7735",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-056.ttf",
+      "size": 104224,
+      "unicode": "U+7736-7893",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-057.ttf",
+      "size": 123508,
+      "unicode": "U+7894-79F1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-058.ttf",
+      "size": 124628,
+      "unicode": "U+79F2-7B4F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-059.ttf",
+      "size": 143852,
+      "unicode": "U+7B50-7CAD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-060.ttf",
+      "size": 172640,
+      "unicode": "U+7CAE-7E0B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-061.ttf",
+      "size": 170728,
+      "unicode": "U+7E0C-7F69",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-062.ttf",
+      "size": 118076,
+      "unicode": "U+7F6A-80C7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-063.ttf",
+      "size": 128168,
+      "unicode": "U+80C8-8225",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-064.ttf",
+      "size": 95004,
+      "unicode": "U+8226-8383",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-065.ttf",
+      "size": 103392,
+      "unicode": "U+8384-84E1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-066.ttf",
+      "size": 134068,
+      "unicode": "U+84E2-863F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-067.ttf",
+      "size": 121572,
+      "unicode": "U+8640-879D",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-068.ttf",
+      "size": 135616,
+      "unicode": "U+879E-88FB",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-069.ttf",
+      "size": 132500,
+      "unicode": "U+88FC-8A59",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-070.ttf",
+      "size": 121808,
+      "unicode": "U+8A5A-8BB7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-071.ttf",
+      "size": 126828,
+      "unicode": "U+8BB8-8D15",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-072.ttf",
+      "size": 113852,
+      "unicode": "U+8D16-8E73",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-073.ttf",
+      "size": 122640,
+      "unicode": "U+8E74-8FD1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-074.ttf",
+      "size": 124988,
+      "unicode": "U+8FD2-912F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-075.ttf",
+      "size": 132764,
+      "unicode": "U+9130-928D",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-076.ttf",
+      "size": 150056,
+      "unicode": "U+928E-93EB",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-077.ttf",
+      "size": 147080,
+      "unicode": "U+93EC-9549",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-078.ttf",
+      "size": 119228,
+      "unicode": "U+954A-96A7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-079.ttf",
+      "size": 122448,
+      "unicode": "U+96A8-9805",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-080.ttf",
+      "size": 147368,
+      "unicode": "U+9806-9963",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-081.ttf",
+      "size": 153552,
+      "unicode": "U+9964-9AC1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-082.ttf",
+      "size": 162516,
+      "unicode": "U+9AC2-9C1F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-083.ttf",
+      "size": 162116,
+      "unicode": "U+9C20-9D7D",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-084.ttf",
+      "size": 179404,
+      "unicode": "U+9D7E-9EDB",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-085.ttf",
+      "size": 146024,
+      "unicode": "U+9EDC-9FEF, U+F900-F903, U+F905-F906, U+F90B-F90C, U+F915, U+F917-F91A, U+F921, U+F92C-F92D, U+F92F, U+F931-F935, U+F937-F93A, U+F943, U+F947-F94A, U+F94E, U+F952-F953, U+F95E, U+F962-F967, U+F96E, U+F972, U+F974, U+F976, U+F979-F97B, U+F97E-F980, U+F984-F985, U+F98A-F98C, U+F98E, U+F993, U+F995, U+F998, U+F9AE, U+F9B3, U+F9B7, U+F9BB, U+F9BD-F9BE, U+F9C0, U+F9C5-F9C6, U+F9D0, U+F9D8-F9D9, U+F9DC-F9DD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-086.ttf",
+      "size": 48964,
+      "unicode": "U+F9DE-F9E0, U+F9E2-F9E4, U+F9E7, U+F9E9, U+F9F1, U+F9F4-F9F5, U+F9FA, U+F9FD, U+F9FF, U+FA02, U+FA05-FA08, U+FA0A, U+FA0C-FA0F, U+FA11, U+FA13-FA14, U+FA18, U+FA1F-FA21, U+FA23-FA24, U+FA27-FA29, U+FA2F, U+FA33-FA35, U+FA37-FA38, U+FA3A, U+FA47, U+FA49, U+FA4B, U+FA5D-FA5E, U+FB00-FB04, U+FE10-FE19, U+FE30-FE52, U+FE54-FE66, U+FE68-FE6B, U+FF01-FF9F, U+FFA1-FFBE, U+FFC2-FFC7, U+FFCA-FFCF, U+FFD2-FFD7, U+FFDA-FFDC, U+FFE0-FFE6, U+FFE8-FFEE, U+1F100-1F104",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-087.ttf",
+      "size": 86888,
+      "unicode": "U+1F105-1F10C, U+1F110-1F16C, U+1F170-1F1AC, U+1F200-1F202, U+1F210-1F23B, U+1F240-1F248, U+1F250-1F251, U+20087, U+20089, U+200CC, U+20164, U+20628, U+20676, U+20CD0, U+2139A, U+21413, U+215D7, U+2298F, U+235CB, U+23C97-23C98, U+23E23, U+241FE, U+2420E, U+248E9, U+249DB, U+24A01, U+24A7D, U+24AC9, U+25532, U+25562, U+255A8, U+25AD7, U+25ED7, U+26221, U+2648D, U+26676, U+2677C, U+26951, U+26B5C, U+26C21, U+278B2, U+27EAF, U+27FB7, U+27FF9, U+28408, U+28678, U+28695, U+287E0, U+28B49, U+28C47, U+28C4F, U+28C51, U+28C54, U+28E0F, U+28E99, U+2967F, U+29810, U+29F7E, U+29F83, U+29F8C, U+2A7DD, U+2A8FB, U+2A917, U+2AA30, U+2AA36, U+2AA58, U+2AFA2, U+2B127-2B128, U+2B137-2B138, U+2B1ED, U+2B300, U+2B363, U+2B36F, U+2B372, U+2B37D, U+2B404, U+2B410, U+2B413, U+2B461, U+2B4E7, U+2B4EF, U+2B4F6, U+2B4F9, U+2B50D-2B50E, U+2B536, U+2B5AE-2B5AF, U+2B5B3, U+2B5E7, U+2B5F4, U+2B61C-2B61D, U+2B626-2B628, U+2B62A, U+2B62C, U+2B695-2B696, U+2B6AD, U+2B6ED, U+2B7A9, U+2B7C5, U+2B7E6, U+2B7F9, U+2B7FC, U+2B806, U+2B80A, U+2B81C, U+2B8B8, U+2BAC7, U+2BB5F, U+2BB62, U+2BB7C, U+2BB83, U+2BC1B, U+2BD77, U+2BD87, U+2BDF7, U+2BE29, U+2C029-2C02A, U+2C0A9, U+2C0CA, U+2C1D5, U+2C1D9, U+2C1F9, U+2C27C, U+2C288, U+2C2A4, U+2C317, U+2C35B, U+2C361",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "regular/chunk-088.ttf",
+      "size": 40012,
+      "unicode": "U+2C364, U+2C488, U+2C494, U+2C497, U+2C542, U+2C613, U+2C618, U+2C621, U+2C629, U+2C62B-2C62D, U+2C62F, U+2C642, U+2C64A-2C64B, U+2C72C, U+2C72F, U+2C79F, U+2C7C1, U+2C7FD, U+2C8D9, U+2C8DE, U+2C8E1, U+2C8F3, U+2C907, U+2C90A, U+2C91D, U+2CA02, U+2CA0E, U+2CA7D, U+2CAA9, U+2CB29, U+2CB2D-2CB2E, U+2CB31, U+2CB38-2CB39, U+2CB3B, U+2CB3F, U+2CB41, U+2CB4A, U+2CB4E, U+2CB5A-2CB5B, U+2CB64, U+2CB69, U+2CB6C, U+2CB6F, U+2CB73, U+2CB76, U+2CB78, U+2CB7C, U+2CBB1, U+2CBBF-2CBC0, U+2CBCE, U+2CC56, U+2CC5F, U+2CCF5-2CCF6, U+2CCFD, U+2CCFF, U+2CD02-2CD03, U+2CD0A, U+2CD8B, U+2CD8D, U+2CD8F-2CD90, U+2CD9F-2CDA0, U+2CDA8, U+2CDAD-2CDAE, U+2CDD5, U+2CE18, U+2CE1A, U+2CE23, U+2CE26, U+2CE2A, U+2CE7C, U+2CE88, U+2CE93, U+2D544, U+2F884, U+2F8B6, U+30EDD-30EDE, U+3106C",
+      "family": "NotoSansSC"
+    }
+  ],
+  "NotoSansSC-Bold": [
+    {
+      "file": "bold/chunk-000.ttf",
+      "size": 66028,
+      "unicode": "U+0020-007E, U+00A0-0103, U+0110-0113, U+011A-011B, U+0128-012B, U+0143-0144, U+0147-0148, U+014C-014F, U+0152-0153, U+0168-016D, U+0192, U+01A0-01A1, U+01AF-01B0, U+01CD-01DC, U+01F8-01F9, U+0251, U+0261, U+02BB, U+02C7, U+02C9-02CB, U+02D9, U+02EA-02EB, U+0300-0301, U+0304, U+0307, U+030C, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+0401, U+0410-0438",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-001.ttf",
+      "size": 52908,
+      "unicode": "U+0439-044F, U+0451, U+1E3E-1E3F, U+1EA0-1EF9, U+2002-2003, U+2010-2016, U+2018-201A, U+201C-201E, U+2020-2022, U+2025-2027, U+2030, U+2032-2033, U+2035, U+2039-203C, U+2042, U+2047-2049, U+2051, U+2074, U+20A9, U+20AB-20AC, U+20DD-20DE, U+2100, U+2103, U+2105, U+2109-210A, U+210F, U+2113, U+2116, U+2121-2122, U+2126-2127, U+212B, U+212E, U+2135, U+213B, U+2160-216B, U+2170-217B, U+2190-2199, U+21B8-21B9, U+21C4-21C6, U+21CB-21CC, U+21D0, U+21D2, U+21D4, U+21E6-21E9, U+21F5, U+2200, U+2202-2203, U+2205-220B, U+220F, U+2211-2213, U+2215, U+221A, U+221D-2220, U+2223, U+2225-222E, U+2234-2237, U+223D, U+2243, U+2245, U+2248, U+224C, U+2260-2262, U+2264-2267, U+226A-226B, U+226E-226F, U+2272-2273, U+2276-2277, U+2282-2287, U+228A-228B, U+2295-2299, U+22A0, U+22A5, U+22BF, U+22DA-22DB, U+22EF, U+2305-2307, U+2312, U+2318, U+2329-232A, U+23B0-23B1, U+23BE-23CC, U+23CE, U+23DA-23DB, U+2423, U+2460-247A",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-002.ttf",
+      "size": 46388,
+      "unicode": "U+247B-25AB, U+25B1-25B3, U+25B6-25B7, U+25BC-25BD, U+25C0-25C1, U+25C6-25C7, U+25C9-25CC, U+25CE-25D3, U+25E2-25E6, U+25EF, U+2600-2603, U+2605-2606, U+2609, U+260E-260F, U+2616-2617, U+261C-261F, U+262F, U+2640-2641",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-003.ttf",
+      "size": 58516,
+      "unicode": "U+2642, U+2660-266F, U+2672-267D, U+26A0, U+26BD-26BE, U+2702, U+2713, U+271A, U+273D, U+273F-2740, U+2756, U+2776-2793, U+27A1, U+2934-2935, U+29BF, U+29FA-29FB, U+2B05-2B07, U+2B1A, U+2B95, U+2E3A-2E3B, U+2E80-2E99, U+2E9B-2EF3, U+2F00-2F98",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-004.ttf",
+      "size": 132160,
+      "unicode": "U+2F99-2FD5, U+2FF0-2FFB, U+3000-303F, U+3041-3096, U+3099-30FF, U+3105-311C",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-005.ttf",
+      "size": 61912,
+      "unicode": "U+311D-312F, U+3131-3163, U+3165-318E, U+3190-31BB, U+31C0-31E3, U+31F0-321E, U+3220-328E",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-006.ttf",
+      "size": 148392,
+      "unicode": "U+328F-332B, U+332D-33ED",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-007.ttf",
+      "size": 104860,
+      "unicode": "U+33EE-354B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-008.ttf",
+      "size": 106092,
+      "unicode": "U+354C-36A9",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-009.ttf",
+      "size": 113144,
+      "unicode": "U+36AA-3807",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-010.ttf",
+      "size": 115040,
+      "unicode": "U+3808-3965",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-011.ttf",
+      "size": 126684,
+      "unicode": "U+3966-3AC3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-012.ttf",
+      "size": 125072,
+      "unicode": "U+3AC4-3C21",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-013.ttf",
+      "size": 128076,
+      "unicode": "U+3C22-3D7F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-014.ttf",
+      "size": 129632,
+      "unicode": "U+3D80-3EDD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-015.ttf",
+      "size": 129300,
+      "unicode": "U+3EDE-403B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-016.ttf",
+      "size": 124064,
+      "unicode": "U+403C-4199",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-017.ttf",
+      "size": 149252,
+      "unicode": "U+419A-42F7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-018.ttf",
+      "size": 142056,
+      "unicode": "U+42F8-4455",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-019.ttf",
+      "size": 120320,
+      "unicode": "U+4456-45B3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-020.ttf",
+      "size": 135564,
+      "unicode": "U+45B4-4711",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-021.ttf",
+      "size": 131000,
+      "unicode": "U+4712-486F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-022.ttf",
+      "size": 138324,
+      "unicode": "U+4870-49CD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-023.ttf",
+      "size": 138380,
+      "unicode": "U+49CE-4B2B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-024.ttf",
+      "size": 165364,
+      "unicode": "U+4B2C-4C89",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-025.ttf",
+      "size": 159808,
+      "unicode": "U+4C8A-4DB5, U+4E00-4E31",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-026.ttf",
+      "size": 75068,
+      "unicode": "U+4E32-4F8F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-027.ttf",
+      "size": 103544,
+      "unicode": "U+4F90-50ED",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-028.ttf",
+      "size": 98348,
+      "unicode": "U+50EE-524B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-029.ttf",
+      "size": 101684,
+      "unicode": "U+524C-53A9",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-030.ttf",
+      "size": 78768,
+      "unicode": "U+53AA-5507",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-031.ttf",
+      "size": 101736,
+      "unicode": "U+5508-5665",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-032.ttf",
+      "size": 97104,
+      "unicode": "U+5666-57C3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-033.ttf",
+      "size": 106020,
+      "unicode": "U+57C4-5921",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-034.ttf",
+      "size": 107360,
+      "unicode": "U+5922-5A7F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-035.ttf",
+      "size": 124668,
+      "unicode": "U+5A80-5BDD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-036.ttf",
+      "size": 89900,
+      "unicode": "U+5BDE-5D3B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-037.ttf",
+      "size": 107924,
+      "unicode": "U+5D3C-5E99",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-038.ttf",
+      "size": 110152,
+      "unicode": "U+5E9A-5FF7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-039.ttf",
+      "size": 109476,
+      "unicode": "U+5FF8-6155",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-040.ttf",
+      "size": 120560,
+      "unicode": "U+6156-62B3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-041.ttf",
+      "size": 108736,
+      "unicode": "U+62B4-6411",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-042.ttf",
+      "size": 139584,
+      "unicode": "U+6412-656F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-043.ttf",
+      "size": 100452,
+      "unicode": "U+6570-66CD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-044.ttf",
+      "size": 98772,
+      "unicode": "U+66CE-682B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-045.ttf",
+      "size": 113800,
+      "unicode": "U+682C-6989",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-046.ttf",
+      "size": 140992,
+      "unicode": "U+698A-6AE7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-047.ttf",
+      "size": 129472,
+      "unicode": "U+6AE8-6C45",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-048.ttf",
+      "size": 97532,
+      "unicode": "U+6C46-6DA3",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-049.ttf",
+      "size": 120140,
+      "unicode": "U+6DA4-6F01",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-050.ttf",
+      "size": 148732,
+      "unicode": "U+6F02-705F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-051.ttf",
+      "size": 124028,
+      "unicode": "U+7060-71BD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-052.ttf",
+      "size": 131120,
+      "unicode": "U+71BE-731B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-053.ttf",
+      "size": 114568,
+      "unicode": "U+731C-7479",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-054.ttf",
+      "size": 118024,
+      "unicode": "U+747A-75D7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-055.ttf",
+      "size": 119308,
+      "unicode": "U+75D8-7735",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-056.ttf",
+      "size": 103968,
+      "unicode": "U+7736-7893",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-057.ttf",
+      "size": 123276,
+      "unicode": "U+7894-79F1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-058.ttf",
+      "size": 124500,
+      "unicode": "U+79F2-7B4F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-059.ttf",
+      "size": 143752,
+      "unicode": "U+7B50-7CAD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-060.ttf",
+      "size": 172580,
+      "unicode": "U+7CAE-7E0B",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-061.ttf",
+      "size": 170716,
+      "unicode": "U+7E0C-7F69",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-062.ttf",
+      "size": 117908,
+      "unicode": "U+7F6A-80C7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-063.ttf",
+      "size": 127704,
+      "unicode": "U+80C8-8225",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-064.ttf",
+      "size": 94996,
+      "unicode": "U+8226-8383",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-065.ttf",
+      "size": 103276,
+      "unicode": "U+8384-84E1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-066.ttf",
+      "size": 133792,
+      "unicode": "U+84E2-863F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-067.ttf",
+      "size": 121292,
+      "unicode": "U+8640-879D",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-068.ttf",
+      "size": 135428,
+      "unicode": "U+879E-88FB",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-069.ttf",
+      "size": 132228,
+      "unicode": "U+88FC-8A59",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-070.ttf",
+      "size": 121692,
+      "unicode": "U+8A5A-8BB7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-071.ttf",
+      "size": 126624,
+      "unicode": "U+8BB8-8D15",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-072.ttf",
+      "size": 113780,
+      "unicode": "U+8D16-8E73",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-073.ttf",
+      "size": 122552,
+      "unicode": "U+8E74-8FD1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-074.ttf",
+      "size": 124664,
+      "unicode": "U+8FD2-912F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-075.ttf",
+      "size": 132500,
+      "unicode": "U+9130-928D",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-076.ttf",
+      "size": 149696,
+      "unicode": "U+928E-93EB",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-077.ttf",
+      "size": 146928,
+      "unicode": "U+93EC-9549",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-078.ttf",
+      "size": 118304,
+      "unicode": "U+954A-96A7",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-079.ttf",
+      "size": 122328,
+      "unicode": "U+96A8-9805",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-080.ttf",
+      "size": 147004,
+      "unicode": "U+9806-9963",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-081.ttf",
+      "size": 153420,
+      "unicode": "U+9964-9AC1",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-082.ttf",
+      "size": 162212,
+      "unicode": "U+9AC2-9C1F",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-083.ttf",
+      "size": 161748,
+      "unicode": "U+9C20-9D7D",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-084.ttf",
+      "size": 179124,
+      "unicode": "U+9D7E-9EDB",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-085.ttf",
+      "size": 145796,
+      "unicode": "U+9EDC-9FEF, U+F900-F903, U+F905-F906, U+F90B-F90C, U+F915, U+F917-F91A, U+F921, U+F92C-F92D, U+F92F, U+F931-F935, U+F937-F93A, U+F943, U+F947-F94A, U+F94E, U+F952-F953, U+F95E, U+F962-F967, U+F96E, U+F972, U+F974, U+F976, U+F979-F97B, U+F97E-F980, U+F984-F985, U+F98A-F98C, U+F98E, U+F993, U+F995, U+F998, U+F9AE, U+F9B3, U+F9B7, U+F9BB, U+F9BD-F9BE, U+F9C0, U+F9C5-F9C6, U+F9D0, U+F9D8-F9D9, U+F9DC-F9DD",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-086.ttf",
+      "size": 49444,
+      "unicode": "U+F9DE-F9E0, U+F9E2-F9E4, U+F9E7, U+F9E9, U+F9F1, U+F9F4-F9F5, U+F9FA, U+F9FD, U+F9FF, U+FA02, U+FA05-FA08, U+FA0A, U+FA0C-FA0F, U+FA11, U+FA13-FA14, U+FA18, U+FA1F-FA21, U+FA23-FA24, U+FA27-FA29, U+FA2F, U+FA33-FA35, U+FA37-FA38, U+FA3A, U+FA47, U+FA49, U+FA4B, U+FA5D-FA5E, U+FB00-FB04, U+FE10-FE19, U+FE30-FE52, U+FE54-FE66, U+FE68-FE6B, U+FF01-FF9F, U+FFA1-FFBE, U+FFC2-FFC7, U+FFCA-FFCF, U+FFD2-FFD7, U+FFDA-FFDC, U+FFE0-FFE6, U+FFE8-FFEE, U+1F100-1F104",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-087.ttf",
+      "size": 86668,
+      "unicode": "U+1F105-1F10C, U+1F110-1F16C, U+1F170-1F1AC, U+1F200-1F202, U+1F210-1F23B, U+1F240-1F248, U+1F250-1F251, U+20087, U+20089, U+200CC, U+20164, U+20628, U+20676, U+20CD0, U+2139A, U+21413, U+215D7, U+2298F, U+235CB, U+23C97-23C98, U+23E23, U+241FE, U+2420E, U+248E9, U+249DB, U+24A01, U+24A7D, U+24AC9, U+25532, U+25562, U+255A8, U+25AD7, U+25ED7, U+26221, U+2648D, U+26676, U+2677C, U+26951, U+26B5C, U+26C21, U+278B2, U+27EAF, U+27FB7, U+27FF9, U+28408, U+28678, U+28695, U+287E0, U+28B49, U+28C47, U+28C4F, U+28C51, U+28C54, U+28E0F, U+28E99, U+2967F, U+29810, U+29F7E, U+29F83, U+29F8C, U+2A7DD, U+2A8FB, U+2A917, U+2AA30, U+2AA36, U+2AA58, U+2AFA2, U+2B127-2B128, U+2B137-2B138, U+2B1ED, U+2B300, U+2B363, U+2B36F, U+2B372, U+2B37D, U+2B404, U+2B410, U+2B413, U+2B461, U+2B4E7, U+2B4EF, U+2B4F6, U+2B4F9, U+2B50D-2B50E, U+2B536, U+2B5AE-2B5AF, U+2B5B3, U+2B5E7, U+2B5F4, U+2B61C-2B61D, U+2B626-2B628, U+2B62A, U+2B62C, U+2B695-2B696, U+2B6AD, U+2B6ED, U+2B7A9, U+2B7C5, U+2B7E6, U+2B7F9, U+2B7FC, U+2B806, U+2B80A, U+2B81C, U+2B8B8, U+2BAC7, U+2BB5F, U+2BB62, U+2BB7C, U+2BB83, U+2BC1B, U+2BD77, U+2BD87, U+2BDF7, U+2BE29, U+2C029-2C02A, U+2C0A9, U+2C0CA, U+2C1D5, U+2C1D9, U+2C1F9, U+2C27C, U+2C288, U+2C2A4, U+2C317, U+2C35B, U+2C361",
+      "family": "NotoSansSC"
+    },
+    {
+      "file": "bold/chunk-088.ttf",
+      "size": 39972,
+      "unicode": "U+2C364, U+2C488, U+2C494, U+2C497, U+2C542, U+2C613, U+2C618, U+2C621, U+2C629, U+2C62B-2C62D, U+2C62F, U+2C642, U+2C64A-2C64B, U+2C72C, U+2C72F, U+2C79F, U+2C7C1, U+2C7FD, U+2C8D9, U+2C8DE, U+2C8E1, U+2C8F3, U+2C907, U+2C90A, U+2C91D, U+2CA02, U+2CA0E, U+2CA7D, U+2CAA9, U+2CB29, U+2CB2D-2CB2E, U+2CB31, U+2CB38-2CB39, U+2CB3B, U+2CB3F, U+2CB41, U+2CB4A, U+2CB4E, U+2CB5A-2CB5B, U+2CB64, U+2CB69, U+2CB6C, U+2CB6F, U+2CB73, U+2CB76, U+2CB78, U+2CB7C, U+2CBB1, U+2CBBF-2CBC0, U+2CBCE, U+2CC56, U+2CC5F, U+2CCF5-2CCF6, U+2CCFD, U+2CCFF, U+2CD02-2CD03, U+2CD0A, U+2CD8B, U+2CD8D, U+2CD8F-2CD90, U+2CD9F-2CDA0, U+2CDA8, U+2CDAD-2CDAE, U+2CDD5, U+2CE18, U+2CE1A, U+2CE23, U+2CE26, U+2CE2A, U+2CE7C, U+2CE88, U+2CE93, U+2D544, U+2F884, U+2F8B6, U+30EDD-30EDE, U+3106C",
+      "family": "NotoSansSC"
+    }
+  ]
+}
